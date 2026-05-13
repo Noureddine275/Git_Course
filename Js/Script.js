@@ -3,6 +3,10 @@ function ADD(a,b) {
     
 }
 
+function Multi(a,b){
+    return a * b
+}
+
 function SUB(a,b) {
     return a - b;
     
