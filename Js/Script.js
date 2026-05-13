@@ -11,3 +11,6 @@ function SUB(a,b) {
     return a - b;
     
 }
+function Dev(a,b){
+    return a / b
+}
